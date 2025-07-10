@@ -44,10 +44,3 @@ The app works on all modern browsers including:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## Screenshots
-
-Light Mode:
-![Light mode screenshot](screenshot-light.png)
-
-Dark Mode:
-![Dark mode screenshot](screenshot-dark.png)
